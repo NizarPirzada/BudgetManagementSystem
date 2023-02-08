@@ -1,0 +1,48 @@
+﻿
+.loginVal {
+    color: red;
+    text-align: center;
+}
+
+.loginRegisterText {
+    color: blue;
+}
+
+.jumbotron {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.loginTextBoxes {
+    width: 100%;
+    height: 27px;
+    display: inline-block;
+    text-align: left;
+}
+
+.loginText {
+    text-align: right;
+}
+
+.loginSubmitButton {
+    height: 40px;
+    width: 40%
+}
+
+.logo {
+    display: block;
+    width: 28vw;
+    height: 22vh;
+    margin: auto;
+}
+
+.validation {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+.cal {
+    margin: 0 auto;
+}

@@ -1,0 +1,32 @@
+﻿
+.LoginVal {
+    color: red;
+    font-weight: bold;
+}
+
+.LoginRegisterText {
+    color: blue;
+}
+
+.jumbotron {
+    max-width: 350px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.LoginTextBoxes {
+    width: 60%
+}
+
+.LoginSubmitButton {
+    height: 40px;
+    width: 40%
+}
+
+.Logo {
+    display: block;
+    width: 28vw;
+    height: 22vh;
+    margin: auto;
+}
+
